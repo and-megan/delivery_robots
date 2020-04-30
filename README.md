@@ -1,4 +1,5 @@
 # Delivery Robots
+Note currently in the process of doing a couple of upgrades and running into a few issues.... Standby for a fully functional app.
 
 ## About
 This is an app for handling your fleet of delivery robots! Is your robot supposed to deliver a New York style slice of pizza to Chicago? Is another robot delivering a time sensitive file from Buenos Aires to Barcelona?
