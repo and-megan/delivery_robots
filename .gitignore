@@ -1,5 +1,5 @@
 *.pyc
 
-.vs_code/
+.vscode/
 
 venv/
